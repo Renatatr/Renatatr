@@ -8,7 +8,7 @@ I participated in the following research programs: <br>
   <li>📘 PIBIC Introduction to Complex Variables. </li>
 </ul>
 I am a Master in Education for Science and Mathematics (PCM-UEM). <br>
-I did a sandwich doctorate at the University of Porto under the guidance of Prof. Dr. Pedro Pina Avelino <br>
+I did a sandwich doctorate at the University of Porto under the guidance of Prof. Dr. Pedro Pina Avelino. <br>
 Currently, I am doing a PhD in the Graduate Program in Physics (PFI-UEM) under the guidance of Prof. Dr. Breno Ferrraz de Oliveira.
 
   ##
