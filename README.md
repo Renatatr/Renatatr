@@ -1,4 +1,4 @@
-<h3> Olá, eu sou a Renata Trintin 👋</h3>
+<!-- <h3> Olá, eu sou a Renata Trintin 👋</h3>
 <div>
 Sou licenciada em Física pela Universidade Estadual de Maringá (UEM). <br>
 Participei dos seguintes programas: <br>
@@ -10,7 +10,7 @@ Participei dos seguintes programas: <br>
 Sou mestra em Educação para a Ciência e a Matemática (PCM-UEM). <br>
 Fiz doutorado sanduiche na Universidade do Porto sob a orientação do Prof. Dr. Pedro Pina Avelino <br> 
 Atualmente, faço doutorado no Programa de Pós-Graduação em Física (PFI-UEM).
-</div><br>
+</div><br> -->
 
 <h3> Hello, I'm Renata Trintin 👋</h3>
 <div>
