@@ -15,7 +15,7 @@ Atualmente, faço doutorado no Programa de Pós-Graduação em Física (PFI-UEM)
 <h3> Hello, I'm Renata Trintin 👋</h3>
 <div>
 I have a degree in Physics from the State University of Maringá (UEM). <br>
-I participated in the following programs: <br>
+I participated in the following research programs: <br>
 <ul>
   <li>📕 PIBID-Physics; </li>
   <li>📗 PIBIC on Public Policies for Education; </li>
