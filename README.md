@@ -9,7 +9,14 @@ I participated in the following research programs: <br>
 </ul>
 I am a Master in Education for Science and Mathematics (PCM-UEM). <br>
 I did a sandwich doctorate at the University of Porto under the guidance of Prof. Dr. Pedro Pina Avelino. <br>
-Currently, I am doing a PhD in the Graduate Program in Physics (PFI-UEM) under the guidance of Prof. Dr. Breno Ferrraz de Oliveira.
+I obtained a PhD in the Graduate Program in Physics (PFI-UEM) under the guidance of Prof. Dr. Breno Ferrraz de Oliveira in January 2023. <br>
+<br>
+I'm in a career transition to the tech area.<br>
+I am studying now:
+
+<div align="left">
+  <img src="https://i.redd.it/vzkhe4s8dlab1.gif" height="60" alt="C# logo"  />
+</div>
 
   ##
   
